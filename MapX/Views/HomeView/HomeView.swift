@@ -34,7 +34,6 @@ struct HomeView: View {
                         .shadow(radius: 12, x: 0, y: 0)
                     }.padding()
                     
-                    
                     Spacer()
                 }
                 
