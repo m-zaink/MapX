@@ -11,7 +11,7 @@ import SwiftUI
 struct MapXApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MapXAppView()
         }
     }
 }
